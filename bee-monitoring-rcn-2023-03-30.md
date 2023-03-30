@@ -63,10 +63,7 @@
 
 ---------------------------------------------------
 
--> What does GloBI offer? <-
-
-<br>
--> and also, <-
+-> What does GloBI offer in addition? <-
 
 1. [how-to page](https://globalbioticinteractions.org/how-to) - thank you [Erika Tucker](https://orcid.org/0000-0002-8822-2315)!
 2. [interactions.csv](https://globalbioticinteractions.org/data), a giant index of existing species interaction datasets 
@@ -98,7 +95,7 @@
 3. [Parasite Tracker TCN](https://parasitetracker.org) - linking specimen-based evidence of parasite - host relations
 4. [Big Bee TCN](https://big-bee.net) - indexing all things bees 
 5. [Viral spillover](https://globalbioticinteractions.org/covid19) - see Upham et al. 2021 doi:10.1016/S2542-5196(21)00196-0
-6. [Arctos Community](https://arctosdb.org) - elevate specimen and their recorded associations 
+6. [GloBI ❤️  Arctos Community](https://arctosdb.org) - to help elevate specimen and their recorded associations 
 7. and many, many more!
 
 
