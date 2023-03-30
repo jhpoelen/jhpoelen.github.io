@@ -85,7 +85,7 @@
 
 -> [Bees interacting with plants according to iNaturalist](https://tinyurl.com/inaturalist-bee-plants) <-
 
--> [Bees pollinating plants according to Big Bee](https://tinyurl.com/big-bee-pollinators) [Seltmann et al. 2020](Seltmann, K., et al. 2020. https://escholarship.org/uc/item/1g21k7bf) <- 
+-> [Bees pollinating plants according to Big Bee](https://tinyurl.com/big-bee-pollinators) [Seltmann et al. 2020](https://escholarship.org/uc/item/1g21k7bf) <- 
 
 -> [Bee interactions according to Arctos Hosted Collections](https://tinyurl.com/arctos-bee-plants) <- 
 
