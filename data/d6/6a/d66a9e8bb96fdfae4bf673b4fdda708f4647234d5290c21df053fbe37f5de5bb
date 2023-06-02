@@ -1,0 +1,1458 @@
+{
+  "head" : {
+    "vars" : [ "coauthor", "coauthorLabel" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58206616"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Alexander Thompson"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20650435"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Willi Egloff"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q25442579"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Daniel Kissling"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q28913583"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Alex Hardisty"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q28913648"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Donald Hobern"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q28913655"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hannu Saarenmaa"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q28913660"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Wouter Los"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q28913664"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lee Belbin"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q30506820"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rui Figueira"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q41566748"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dmitry Sergeevich Schigel"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q41566750"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pier Luigi Buttigieg"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55829951"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Robert Guralnick"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56219558"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dimitrios Koureas"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56757978"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "William K. Michener"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q63830777"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Anne Bowser"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q108665571"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dora Canhos"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q111976119"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Renato De Giovanni"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q114768920"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Enrique Alonso García"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q581515"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Daniel Pauly"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20746118"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Christopher J. Mungall"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q25443683"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cristiane Bastos-Silveira"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q26258171"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Marcus Guidoti"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58423083"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Maarten P. M. Vanhove"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59153258"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Beckett Sterner"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q28324761"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Teodor Georgiev"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21393640"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jennifer M. Zaspel"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2348034"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Michael S. Engel"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21073948"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "István Mikó"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21389938"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Erika M. Tucker"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21502839"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Crystal A. Maier"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22111654"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Brian V. Brown"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23011588"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Elijah J. Talamas"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q92343042"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Edward E Gilbert"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21339173"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gábor Csorba"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56427148"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Antonio M Saraiva"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q104618691"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jose Augusto Salim"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56296490"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tim Adriaens"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q73478137"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Maarten Trekels"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1602359"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Helge Bruelheide"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57615376"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Renske E. Onstein"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q85683771"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Stefanie Dekeyzer"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q87684259"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sara D. Leonhardt"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q90658052"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Anikó B. Tóth"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q92348435"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mohammad Bagher Erfanian"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q113675271"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Margot Neyret"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q41566708"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jennifer A Hammock"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q28913658"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Quentin J. Groom"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20650434"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Donat Agosti"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q25439894"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "DeeAnn M. Reeder"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27869312"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nancy B. Simmons"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q29158418"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nathan S. Upham"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6069153"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Katja Seltmann"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q47503085"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Anne Thessen"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q107282886"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Matthew J Collins"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21517397"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Alexander Keller"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q29076435"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Markus Ankenbrand"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q42407986"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Roberto Salguero-Gómez"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q47172478"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Brian J. Enquist"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q51171519"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Joshua S Madin"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56433897"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Caterina Penone"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56556463"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jens Kattge"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56576262"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Florian Dirk Schneider"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56755459"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Daniel Falster"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57179980"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "William D. Pearse"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q62558788"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rachael V. Gallagher"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q89748248"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Brian S. Maitner"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q107256582"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sandro Bertolino"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21781591"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lyubomir Penev"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q114832818"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jose Fortes"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q19845641"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chris T. Evelo"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q19845665"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Christine Chichester"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20895241"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Egon Willighagen"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q28025534"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Friederike Ehrhart"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q28194921"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Michel Dumontier"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q29644228"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Núria Queralt Rosinach"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q30347594"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Laura I. Furlong"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q39502203"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Allen H. Hurlbert"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q42027946"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tobias Kuhn"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q48975677"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Juan M. Banda"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59477733"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Alexander Malic"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q102925603"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tareq Malas"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6218862"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "John Alroy"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q19001730"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hervé Sauquet"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22104523"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ian G. Brennan"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q26714687"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Maurizio Rossetto"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27720517"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Renee A. Catullo"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q36585112"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ian J. Wright"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q42561055"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Vigdis Vandvik"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q42666979"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Steven L. Chown"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q43121038"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mark Westoby"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q46983883"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Michael Ray Kearney"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q47297444"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Paula M. Mabee"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50669412"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Samuel C. Andrew"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53913686"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Heloise Gibb"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55100101"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Richard J Telford"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56332709"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Vanessa M. Adams"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56433461"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Daniel S. Park"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56441522"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dalia A. Conde"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56441617"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Joseph A Tobias"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56457776"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ben Sparrow"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56559680"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pete Manning"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56755531"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Colleen M. Iversen"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57010307"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Malte Jochum"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57296572"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "J. Aaron Hogan"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58210191"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Xiao Feng"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58643826"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sean T. Michaletz"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59763318"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Meghan Balk"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q61361706"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Silvia Pineda-Munoz"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q63240627"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ramona L Walls"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q83487382"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Alexandra J. R. Carthey"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q88025034"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lucie M Bland"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q88797887"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Katherine C B Weiss"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q88822144"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Belén Fadrique"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q89735684"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cyrille Violle"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q89748252"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Catherine H Bravo-Avila"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q89748255"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hamish Holewa"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q89766675"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Marko J. Spasojevic"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q90744779"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Brad Boyle"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q92348703"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Courtenay A Ray"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q93220897"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Timothy M. Perez"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q96096151"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Aud H. Halbritter"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q98458627"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Brittany R Cavazos"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q108476851"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Luke McCormack"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q113106751"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Michael Hope"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11256815"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "David Mark Richardson"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59198993"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kendra Phelps"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21338947"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nico M. Franz"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q63226067"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Deborah L. Paul"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q64884230"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mariya Dimitrova"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q114833372"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Michael J. Elliott"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7799267"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Thure E. Cerling"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q25525914"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bruce J. MacFadden"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q51710706"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Christopher Harrod"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56452700"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Michelle T Dohm"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56460505"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Shawn A Steffan"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56755537"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Laura Russell"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57003077"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gabriel J. Bowen"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57045468"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Craig A. Stricker"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57554609"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Suzanne E Pilaar Birch"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59692896"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mark D Uhen"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q87724238"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Keith A Hobson"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q91791632"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Seth D Newsome"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q111165624"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jonathan N. Pauli"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57553187"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Albert Meroño-Peñuela"
+      }
+    }, {
+      "coauthor" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q28913663"
+      },
+      "coauthorLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nicky Nicolson"
+      }
+    } ]
+  }
+}
